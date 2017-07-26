@@ -3,6 +3,7 @@ package exception.logger;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+//生成日志，输出到控制台
 public class LoggerTester1 {
 
 	public static void main(String[] args) {
