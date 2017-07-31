@@ -16,8 +16,8 @@ public class A {
 		System.out.println("methodA");
 	}
 	public void test(){
-		System.out.println("test 1");
+		System.out.println("test master");
 	}
 	
-	public void newtes (){}
+	public void newtes (){System.out.println("master");}
 }
