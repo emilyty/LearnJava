@@ -15,9 +15,4 @@ public class A {
 		method2();
 		System.out.println("methodA");
 	}
-	public void test(){
-		System.out.println("test master");
-	}
-	
-	public void newtes (){System.out.println("master");}
 }
