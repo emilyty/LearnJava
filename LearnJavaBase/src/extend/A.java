@@ -13,8 +13,9 @@ public class A {
 	}
 	public void mehtodA(){
 		method2();
-		System.out.println("methodA");
+		System.out.println("methodA test");
 	}
-	//fearture1
-	//master
+	public void test(){
+		System.out.println("test");
+	}
 }
