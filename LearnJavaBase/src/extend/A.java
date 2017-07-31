@@ -11,10 +11,8 @@ public class A {
 	public void method3(){
 		c.method3();
 	}
-	public void mehtodA(){
+	public void methodA(){
 		method2();
 		System.out.println("methodA");
 	}
-	//fearture1
-	//master
 }
