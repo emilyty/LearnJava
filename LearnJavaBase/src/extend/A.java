@@ -14,5 +14,9 @@ public class A {
 	public void methodA(){
 		method2();
 		System.out.println("methodA");
+		System.out.println("methodA test");
+	}
+	public void test(){
+		System.out.println("test");
 	}
 }
