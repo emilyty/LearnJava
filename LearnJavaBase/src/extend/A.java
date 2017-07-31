@@ -15,5 +15,6 @@ public class A {
 		method2();
 		System.out.println("methodA");
 	}
+	//fearture1
 	//master
 }
