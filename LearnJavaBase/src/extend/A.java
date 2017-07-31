@@ -15,5 +15,5 @@ public class A {
 		method2();
 		System.out.println("methodA");
 	}
-	//Creating a new branch is quick & simple.
+	//Creating a new branch is quick and simple.
 }
