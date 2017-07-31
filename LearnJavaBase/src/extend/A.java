@@ -18,4 +18,6 @@ public class A {
 	public void test(){
 		System.out.println("test 1");
 	}
+	
+	public void newtes (){}
 }
